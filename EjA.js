@@ -4,6 +4,6 @@ Maria = 5;
 Pedro = 8;
 Susana = 9;
 
-TotalManzanas = Maria + Pedro + Susana
+TotalManzanas = Maria + Pedro + Susana + " manzanas"
 
 console.log(TotalManzanas)
