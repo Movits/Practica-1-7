@@ -4,6 +4,6 @@ var Maria = 5;
 var Pedro = 8;
 var Susana = 9;
 
-var TotalManzanas = Maria + Pedro + Susana + " manzanas"
+var TotalManzanas = Maria + Pedro + Susana + " Manzanas"
 
 console.log(TotalManzanas)
